@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FLIP-PINS-08
+D Flip-Pins are Integrated Circuit (IC) pins designed by Fliptronics for use in products like OSHChip.
+K Flip-Pins, OSHchip
+F http://oshchip.org/docs/Flip-Pins-XX_REV_A.pdf
+$ENDCMP
+#
+$CMP FLIP-PINS-14
+D Flip-Pins are Integrated Circuit (IC) pins designed by Fliptronics for use in products like OSHChip.
+K Flip-Pins, OSHchip
+F http://oshchip.org/docs/Flip-Pins-XX_REV_A.pdf
+$ENDCMP
+#
+$CMP FLIP-PINS-20
+D Flip-Pins are Integrated Circuit (IC) pins designed by Fliptronics for use in products like OSHChip.
+K Flip-Pin, OSHchip
+F http://oshchip.org/docs/Flip-Pins-XX_REV_A.pdf
+$ENDCMP
+#
+#End Doc Library
