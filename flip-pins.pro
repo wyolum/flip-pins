@@ -1,4 +1,4 @@
-update=Sun Sep 11 00:52:56 2016
+update=Sun Sep 11 01:14:13 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=osh_chip
+LibName1=flip-pins
 LibName2=power
 [general]
 version=1

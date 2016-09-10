@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name oshchip)(type KiCad)(uri "$(KIPRJMOD)/oshchip.pretty")(options "")(descr ""))
+  (lib (name flip-pins)(type KiCad)(uri "$(KIPRJMOD)/flip-pins.pretty")(options "")(descr ""))
 )
