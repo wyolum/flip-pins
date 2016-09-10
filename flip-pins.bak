@@ -7,10 +7,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "OSHchip Flip-Pins"
+Date "2016-09-10"
+Rev "ver 1"
+Comp "OSHchip"
 Comment1 ""
 Comment2 ""
 Comment3 ""
