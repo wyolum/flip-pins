@@ -1,10 +1,10 @@
-(module FLIP-PINS-14 (layer F.Cu) (tedit 57D448A0)
+(module FLIP-PINS-FLOAT-14 (layer F.Cu) (tedit 57D69280)
   (descr http://oshchip.org/docs/Flip-Pins-XX_REV_A.pdf)
   (tags "FLIP-PINS, OSHchip")
   (fp_text reference J** (at -17.145 -2.54) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
-  (fp_text value FLIP-PINS-14 (at -7.62 -2.54) (layer F.Fab)
+  (fp_text value FLIP-PINS-FLOAT-14 (at -7.62 -2.54) (layer F.Fab)
     (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_line (start -19.05 0.635) (end -18.415 0) (layer F.SilkS) (width 0.15))
@@ -29,7 +29,7 @@
   (pad 12 thru_hole circle (at 11.43 0) (size 1.016 1.016) (drill 0.635) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 13.97 0) (size 1.016 1.016) (drill 0.635) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 16.51 0) (size 1.016 1.016) (drill 0.635) (layers *.Cu *.Mask))
-  (model FLIP-PINS-14.wrl
+  (model ${KIPRJMOD}/flip-pins_3d/flip-pins-float-14.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
